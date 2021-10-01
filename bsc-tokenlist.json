@@ -40,8 +40,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI": "https://mdex.co/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+     "logoURI": "https://mdex.co/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
       "name": "Binance-Peg BUSD Token",
@@ -49,8 +48,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI": "https://mdex.co/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+     "logoURI": "https://mdex.co/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
       "name": "Binance-Peg BTCB Token",
@@ -58,8 +56,7 @@
       "symbol": "BTCB",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
       "name": "Binance-Peg Ethereum Token",
@@ -67,8 +64,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
       "name": "Binance-Peg BUSD-T",
@@ -76,8 +72,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
       "name": "Swipe",
@@ -93,8 +88,7 @@
       "symbol": "DOT",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
     },
     {
       "name": "Binance Beacon ETH",
@@ -110,8 +104,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -119,8 +112,7 @@
       "symbol": "ADA",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
     },
     {
       "name": "Binance-Peg ChainLink Token",
@@ -128,8 +120,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI": "https://mdex.co/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+     "logoURI": "https://mdex.co/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
     },   
     {
       "name": "Binance-Peg Dai Token",
@@ -137,8 +128,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
     },    
     {
       "name": "Binance-Peg Litecoin Token",
@@ -146,8 +136,7 @@
       "symbol": "LTC",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
     },    
     {
       "name": "Binance-Peg XRP Token",
@@ -155,8 +144,7 @@
       "symbol": "XRP",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
     },   
     {
       "name": "Binance-Peg Uniswap",
@@ -164,8 +152,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
     },    
     {
       "name": "Binance-Peg Bitcoin Cash Token",
@@ -173,8 +160,7 @@
       "symbol": "BCH",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
     },    
     {
       "name": "Binance-Peg Band Protocol Token",
@@ -230,8 +216,7 @@
       "symbol": "FIL",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
     }, 
     {
       "name": "Binance-Peg Tezos Token",
@@ -287,8 +272,7 @@
       "symbol": "DOGE",
       "decimals": 8,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
     }, 
     {
       "name": "Binance-Peg Basic Attention Token",
@@ -352,8 +336,7 @@
       "symbol": "CAKE",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
       "name": "Binance-Peg AUTO",
@@ -417,8 +400,7 @@
       "symbol": "MDX",
       "decimals": 18,
       "chainId": 56,
-      "whitelist" : true,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+     "logoURI":  "https://mdex.co/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
     },
     {
       "name": "Binance-Peg BOR",
