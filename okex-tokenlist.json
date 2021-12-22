@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "Yoloswap Coin",
+      "address": "0x41F671C2dD67d89aa63f6C915aF38c72680c023b",
+      "symbol": "YOLO",
+      "decimals": 18,
+      "chainId": 66,
+      "logoURI": "https://raw.githubusercontent.com/giffenjaquanna07/token-material/main/heco/0x41F671C2dD67d89aa63f6C915aF38c72680c023b.png"
+    },
+    {
       "chainId": 66,
       "address": "0x0a3c69b510ea47624ee4d4c5b630ae06cd33eb73",
       "name": "SupremeX Token",

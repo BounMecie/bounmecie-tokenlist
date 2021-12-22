@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "Yoloswap Coin",
+      "address": "0xc3AEBBCC414d389755cC7c910b2fB72FF5b67C87",
+      "symbol": "YOLO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/giffenjaquanna07/token-material/main/heco/0x41F671C2dD67d89aa63f6C915aF38c72680c023b.png"
+    },
+    {
       "name": "AnRKey X",
       "address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
       "symbol": "$ANRX",

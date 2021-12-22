@@ -19,7 +19,31 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 256,
-     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+    },
+    {
+      "name": "Yoloswap Coin",
+      "address": "0x41F671C2dD67d89aa63f6C915aF38c72680c023b",
+      "symbol": "YOLO",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/giffenjaquanna07/token-material/main/heco/0x41F671C2dD67d89aa63f6C915aF38c72680c023b.png"
+    },
+    {
+      "name": "JD Coin",
+      "address": "0xccaD2861c450B79Aa2a30519177a92fa94f2a18e",
+      "symbol": "JD",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/giffenjaquanna07/token-material/main/heco/0xccaD2861c450B79Aa2a30519177a92fa94f2a18e.png"
+    },
+    {
+      "name": "PDD Coin",
+      "address": "0x537B92b1b1eC8504c3ae143dC8298dB4Ba0737A6",
+      "symbol": "PDD",
+      "decimals": 18,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/giffenjaquanna07/token-material/main/heco/0x537B92b1b1eC8504c3ae143dC8298dB4Ba0737A6.png"
     },
     {
       "name": "Tether COIN",
